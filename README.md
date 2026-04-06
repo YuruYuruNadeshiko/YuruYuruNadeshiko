@@ -1,16 +1,18 @@
-## 사람입니다
+## 안녕하세요 현재 컴퓨터 공부 하고 있는 학생입니다.
+## こんにちは！僕は現在情報理論について勉強をしている大学生です！
 
-<!--
-**YuruYuruNadeshiko/YuruYuruNadeshiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##email 
+scudtw07@gmail.com
 
-Here are some ideas to get you started:
+열심히 하겠습니다.
+頑張ります。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 목표
+여유롭게 살기(YuruYuruLife/ゆるゆる生活)
+3D 물리엔진 분야에 대해 공부해보고 싶어요.
+物理エンジンについて勉強したいです。
+근데 어떻게 공부해야 할지 모르겠어요.
+*일본 취업 (아마도?)*
+
+
+**丁寧に生きたい。生きていたくありたい。**
