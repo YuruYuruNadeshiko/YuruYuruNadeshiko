@@ -1,4 +1,4 @@
-## Hi there 👋
+## 사람입니다
 
 <!--
 **YuruYuruNadeshiko/YuruYuruNadeshiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
